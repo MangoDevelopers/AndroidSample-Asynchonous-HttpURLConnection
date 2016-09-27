@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="sort_options">
+        <item name="o1">Category</item>
+        <item name="o2">Favourites</item>
+    </array>
+</resources>
